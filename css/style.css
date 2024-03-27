@@ -1,0 +1,88 @@
+*{
+    font-family: Roboto;
+    text-align: center; 
+    font-weight: 400px;
+}
+img{
+    height: 430px;
+    width: 430px;
+    border-radius: 200px;
+}
+.container{
+    width: 570px;
+    margin: auto;
+}
+body{
+    font-weight: 21px;
+    margin: 0px;
+}
+h1{
+    font-weight: 60px;  
+}
+h2{
+    font-weight: 42px;
+    border-top: 1px #C4C4C4 solid;
+    border-bottom: 1px #C4C4C4 solid;
+    display: inline-block;
+}
+h3{
+    font-weight: 36px;
+}
+a{
+    color: #99D930;
+}
+a:hover{
+    color: #131313;
+}
+#Second-Para{
+    color: #99d930;
+    font-size: 16px;
+}
+.header{
+ /* background-color: #D7D7D7; */
+ background-color: #252525;
+ color: #fff;
+}
+.about-me{
+    background-color: #FFEAEA;
+    /* background-color: #D7D7D7; */
+}
+.article{
+    /* background-color: #EAF9FF; */
+    background-color: #252525;
+    color: #fff;
+}
+h1 span{
+    color: #99d930;
+    font-size: 80px;
+    font-weight: 900;
+}
+h2 span{
+    color: #99d930;
+    font-size: 60px;
+    font-weight: 900;
+}
+.para{
+    padding: 100px;
+}
+/* Second Challange */
+.b1{
+    color: #252525;
+    background-color: #99D930;
+    border: #99D930;
+    font-size: 20px;
+    font-weight: bolder;
+    display: inline-block;
+    padding: 8px 12px;
+}
+.b1:hover{
+    color: #fff;
+    background-color: #252525;
+    cursor: pointer;
+}
+h1 h2{
+    margin-top: 0;
+}
+h3{
+    margin-bottom: 0;
+}
